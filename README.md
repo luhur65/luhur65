@@ -5,7 +5,7 @@ Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live
 
 **Here are some ideas to get you started:***
 
-- 🌱 I’m currently learning to be 📌FrontEnd Web Developer Expert and after that i will learn the backend.
+- 🌱 I’m currently learning to be 📌FrontEnd Web Developer Expert and after that i will continue my learning on the backend.
 - 🚀 My hope is to become a fullstack web developer.
 - 💬 I was interested in programming when I was 10 years old, but I started studying at my current age (18 y.o) 🙈.
 
