@@ -27,7 +27,7 @@ Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live
 
 
 #### Contact Person
-- 🌐 Portfolio : https://luhur65.github.io .
+- 🌐 Portfolio : https://dharmasitumorang.github.io .
 - 📫 How to reach me: 
   - Facebook   : [Luhur Ertz](https://web.facebook.com/Adiknya.situmorang).
   - Instagram  : [@dharma_situmorang](https://instagram.com/dharma_situmorang).
