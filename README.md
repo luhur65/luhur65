@@ -1,7 +1,7 @@
 # Welcome , Friend!!!
 ### Hi there 👋 >_@dharma_situmorang
 
-Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live in Medan , 💚 Indonesia . Aside from being a Junior FrontEnd Web Developer , I am also a fresh graduate in high school and want to continue my education at university .
+Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live in Medan , 💚 Indonesia . Aside from being a Junior FrontEnd Web Developer , I am also a scholar in Budi Darma Univeristy , Medan , Indonesia .
 
 **Here are some ideas to get you started:***
 
@@ -14,11 +14,12 @@ Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live
 - ✨ FrontEnd Web :
   - HTML
   - CSS ( Boostrap , Materialize )
-  - JavaScript
+  - JavaScript ( PWA )
   
 - ✨ BackEnd Web :
-  - PHP ( CodeIgniter )
+  - PHP ( CodeIgniter , Laravel (ongoing) )
   - Python
+  - Node.js ( ongoing )
   
 - Knowing about Source Management as Git
 - Able to Team Work or Personal.
