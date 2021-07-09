@@ -11,17 +11,21 @@ Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live
 
 #### 👷 Skill
 **Here are some skills that I have mastered:**
-- ✨ FrontEnd Web :
-  - HTML
-  - CSS ( Boostrap , Materialize )
-  - JavaScript ( PWA )
+- ✨ Web Programmming :
+  - ✨ FrontEnd Web :
+    - HTML
+    - CSS ( Boostrap , Materialize )
+    - JavaScript ( PWA )
   
-- ✨ BackEnd Web :
-  - PHP ( CodeIgniter , Laravel (ongoing) )
-  - Python
-  - Node.js ( ongoing )
+  - ✨ BackEnd Web :
+    - PHP ( CodeIgniter , Laravel (ongoing) )
+    - Python
+    - Node.js ( ongoing )
+
+- ✨ Dekstop Programmming :
+  - Visual Basic
   
-- Knowing about Source Management as Git
+- Knowing about Versioning control
 - Able to Team Work or Personal.
 - Willingness to learn new things.
 - Responsible attitude & good behavior .
