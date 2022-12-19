@@ -1,7 +1,12 @@
 # Welcome , Friend!!!
 ### Hi there 👋 >_@dharma_situmorang
 
-Hi !, I'm Dharma --> a **Junior FrontEnd Web Developer** and I'm 18 y.o . I live in Medan , 💚 Indonesia . Aside from being a Junior FrontEnd Web Developer , I am also a scholar in Budi Darma Univeristy , Medan , Indonesia .
+Hi !, I'm Dharma  
+Programming is one of the activities that is very interesting for me, because with programming I can create an application or website that is useful for other people. Apart from that, I am also a student majoring in Information Systems at a private university in Medan, Indonesia.
+  
+My interest in programming is primarily as a web developer, where I can build attractive and user-friendly websites according to client needs. Apart from that, I also have the ability to use several programming languages such as HTML, CSS, and JavaScript which can help me create an attractive website.
+  
+I am currently 21 years old and live in Medan, Indonesia. I am a student who always tries to learn and improve my skills in programming. I am sure that with my ability and interest in this field, I can become a successful web developer in the future.
 
 **Here are some ideas to get you started:***
 
