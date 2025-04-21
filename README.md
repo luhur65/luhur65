@@ -1,5 +1,5 @@
-<p align="center">
   ![Header](./github-header-image.png)
+<p align="center">
   <!-- <img src="https://user-images.githubusercontent.com/57518427/217164422-9ee3c2d0-f675-4f13-a63a-7bb7a9e7cb8a.gif" alt="my banner" /> --> <br><br>
   <a href="https://fb.com/adiknya.situmorang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adiknya.situmorang" height="30" width="40" /></a>
   <a href="https://instagram.com/dharma_situmorang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharma_situmorang" height="30" width="40" /></a>
