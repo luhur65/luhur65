@@ -5,9 +5,13 @@
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm dharma situmorang</h1> -->
-<h3 align="center">A curious learner always seeking to improve and expand my skillset in the tech world.</h3>
+<h5 align="center" style="padding-bottom:0px">A curious learner always seeking to improve and expand my skillset in the tech world.</h5>
 
-### 💻 Web Developer | 🧑‍🏫 Computer Teacher | Backend Enthusiast
+![Laravel Ninja](https://img.shields.io/badge/-Laravel%20Ninja-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Backend Builder](https://img.shields.io/badge/-Backend%20Builder-0a9396?style=for-the-badge&logo=server&logoColor=white)
+![Educator](https://img.shields.io/badge/-Educator-3a86ff?style=for-the-badge&logo=bookstack&logoColor=white)
+![Web Dev](https://img.shields.io/badge/-Web%20Developer-f72585?style=for-the-badge&logo=html5&logoColor=white)
+![Code Mentor](https://img.shields.io/badge/-Code%20Mentor-7209b7?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 🚀 Passionate about building impactful web systems using **Laravel**,  
 🎓 Sharing knowledge through teaching and training,  
